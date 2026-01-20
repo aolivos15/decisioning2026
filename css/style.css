@@ -108,7 +108,7 @@ Last Change:    11/3/2020
 	border:none;
 	outline:none;
 	--1stcolor: #760f13;
-	--2ndcolor: #2eaf7d;
+	--2ndcolor: #ff9233;
 	--3rdcolor: #a86e58;
 	--4thcolor: #d7401b;
 }
@@ -143,14 +143,14 @@ body {
 a {
 	text-decoration:none;
 	cursor:pointer;
-	color: var(--3rdcolor);
+	color: var(--4thcolor);
 }
 
 button,
 a:hover,a:focus,a:visited{
 	text-decoration:none;
 	outline:none !important;
-	color: var(--4thcolor);
+	color: var(--2ndcolor);
 }
 
 h1,h2,h3,h4,h5,h6 {
